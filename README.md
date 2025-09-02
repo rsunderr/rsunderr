@@ -1,4 +1,11 @@
-## Hi there 👋
+## rsunderr's README
+
+- Hi, I'm name is Ryan Sundermeyer
+- I am a senior at SDSU majoring in Computer Engineering
+- I am the president of the SDSU Mechatronics club
+- My favorite things to work with are embedded systems, sensors, and the command line, and I enjoy both high-level and low-level coding
+- My main languages are python, C/C++, and bash, but I also dabble in html/css, js, java, verilog, assembly, and lua
+- I am always happy to collaborate wth other people who share my interests, and working on bigger projects is one of my favorite things about coding
 
 <!--
 **rsunderr/rsunderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
