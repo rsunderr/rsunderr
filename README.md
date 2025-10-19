@@ -1,6 +1,6 @@
 ## rsunderr's README
 
-- Hi, I'm name is Ryan Sundermeyer
+- Hi, my name is Ryan Sundermeyer
 - I am a senior at SDSU majoring in Computer Engineering
 - I am the president of the SDSU Mechatronics club
 - My favorite things to work with are embedded systems, sensors, and the command line, and I enjoy both high-level and low-level coding
